@@ -1,3 +1,5 @@
+package main.java;
+
 /**
  * Ngoại lệ chung trong hệ thống ngân hàng.
  */
